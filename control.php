@@ -14,6 +14,7 @@
 
                 <h3 style = "text-align : center"> <?php echo "Tu es majeur"; ?> </h3> <br>
 				<a href = "<?php echo $_SERVER['HTTP_REFERER']; ?>"><button type="button"> << Retour </button></a>
+				<a href = "form_inscription.html"><button>S'inscrire >></button></a>
             <?php    
             }
             
